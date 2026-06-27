@@ -1,6 +1,9 @@
 # GreenwoodRun
 A simple 8 switch micropad
-Screenshot 2026-06-24 221216.png
+
+<hr></hr>
+<h1> images </h1>
+<img src="Screenshot 2026-06-24 221216.png" alt="Alt Text" width="500">
 
 <hr> </hr>
 
