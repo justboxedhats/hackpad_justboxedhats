@@ -4,7 +4,7 @@ Screenshot 2026-06-24 221216.png
 
 <hr> </hr>
 
-List of Parts: 
+<h1>List of Parts: </h1>
 
 1X unsoldered Seeed XIAO RP2040
 
