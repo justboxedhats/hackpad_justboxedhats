@@ -1,5 +1,5 @@
 # GreenwoodRun
-A simple 8 switch micropad
+A simple 8 switch micropad with a small slope intended to look like the roots of trees. 
 
 <hr></hr>
 <h1> images </h1>
