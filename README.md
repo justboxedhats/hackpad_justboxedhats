@@ -26,7 +26,11 @@ A simple 8 switch micropad with a small slope intended to look like the roots of
 
 8X SK6812 MINI-E LEDs
 
-M3x16mm screws
+4X M3x16mm screws
 
-M3x5mx4mm heatset inserts
+4X M3x5mx4mm heatset inserts
+
+1X 3D printed bottom case
+
+1X 3D printed top plate
 
