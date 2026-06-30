@@ -1,0 +1,38 @@
+{
+    "manufacturer": "Justin Fernandez",
+    "keyboard_name": "greenwoodrun",
+    "maintainer": "justboxedhats",
+    "bootloader": "rp2040",
+    "diode_direction": "COL2ROW",
+    "features": {
+        "bootmagic": true,
+        "extrakey": true,
+        "mousekey": true,
+        "nkro": true
+    },
+    "matrix_pins": {
+        "cols": ["GP26", "GP27", "GP28"],
+        "rows": ["GP29", "GP0", "GP1"]
+    },
+    "processor": "RP2040",
+    "usb": {
+        "device_version": "1.0.0",
+        "pid": "0x0000",
+        "vid": "0xFEED"
+    },
+    "layouts": {
+        "LAYOUT": {
+            "layout": [
+                {"matrix": [0, 0], "label": "K1", "x": 0, "y": 0},
+                {"matrix": [0, 1], "label": "K2","x": 1, "y": 0},
+                {"matrix": [0, 2], "label": "K3","x": 2, "y": 0},
+                {"matrix": [1, 0], "label": "K4","x": 3, "y": 0},
+                {"matrix": [1, 1], "label": "K5","x": 0, "y": 1},
+                {"matrix": [1, 2], "label": "K6","x": 1, "y": 1},
+                {"matrix": [2, 0], "label": "K7","x": 2, "y": 1},
+                {"matrix": [2, 1], "label": "K8","x": 3, "y": 1},
+                {"matrix": [2, 2], "label": "K9","x": 2, "y": 2}
+            ]
+        }
+    }
+}
