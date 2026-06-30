@@ -3,7 +3,12 @@ A simple 8 switch micropad
 
 <hr></hr>
 <h1> images </h1>
-<img src="Screenshot 2026-06-24 221216.png" alt="Alt Text" width="500">
+
+<img src="CAD/Screenshot 2026-06-29 204445.png" alt="Alt Text" width="500">
+
+<img src="PCB/Screenshot 2026-06-28 023128.png" alt="Alt Text" width="500">
+
+<img src="PCB/Screenshot 2026-06-29 170040.png" alt="Alt Text" width="500">
 
 <hr> </hr>
 
